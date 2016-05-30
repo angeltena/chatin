@@ -1,0 +1,22 @@
+{
+  "name": "chatin",
+  "version": "0.0.1",
+  "description": "chat learn by doing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeltena/chatin.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Angel Tena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angeltena/chatin/issues"
+  },
+  "homepage": "https://github.com/angeltena/chatin#readme"
+}
